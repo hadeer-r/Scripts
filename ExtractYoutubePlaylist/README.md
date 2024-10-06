@@ -1,0 +1,2 @@
+# Description
+- this script extract a youtube playlist in markdown file to convert to task to do. It helped me to organize playlists that I want to study from youtube and helped me to track my studying plan.
