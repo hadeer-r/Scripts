@@ -5,4 +5,4 @@
 
 | Name               | Description                                      | Script File                                            |
 | ------------------------- | ------------------------------------------------ | ------------------------------------------------------ |
-| Extract Youtube playlist | Extracts a YouTube playlist into a markdown file | [youtube_playlist_to_md.sh](youtube_playlist_to_md.sh) |
+| Extract Youtube playlist | [README](ExtractYoutubePlaylist/README.md) | [youtube_playlist_to_md.sh](ExtractYoutubePlaylist/youtube_playlist_to_md.sh) |
